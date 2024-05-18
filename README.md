@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning phyton and Unity.
 
 
-- 😄 Pronouns: Bee
+
 - ⚡ Fun fact: I am litterally a beginner.
 
 <!---
