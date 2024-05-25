@@ -1,0 +1,35 @@
+import time
+meme_dict = {
+            "CRINGE": "-Garip ya da utandırıcı bir şey.",
+            "LOL": "-Komik bir şeye verilen cevap.",
+            "SHEESH": "-Onaylamamak.",
+            "ROFL": "-Bir şakaya karşılık cevap.",
+            "AGGRO": "-Agresifleşmek/sinirlenmek."
+            
+            }
+print('Welcome to the Meme dictionary!')
+while True:
+    time.sleep(1)
+    word = input("İf there is a word that you don't know the meaning type it(Type it all with capslock on!): ")
+    
+    if word in meme_dict.keys():
+       print(meme_dict[word])
+    else:
+        print('This word is not in our dictionary yet.')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
